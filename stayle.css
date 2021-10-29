@@ -1,0 +1,278 @@
+* {
+  margin: 0;
+  padding: 0;
+  list-style: none;
+  text-decoration: none;
+}
+
+header {
+  background-color: coral;
+  width: 100%;
+  position: fixed;
+}
+
+.logo {
+  width: 200px;
+  height: 80px;
+  padding-left: 50px;
+  float: left;
+}
+
+.nav {
+  float: left;
+  justify-content: center;
+  align-items: center;
+  display: flex;
+}
+.nav li {
+  list-style: none;
+  display: inline-block;
+  margin-right: 20px;
+}
+
+.nav li a {
+  text-decoration: none;
+  font-size: 20px;
+  padding: 30px 10px;
+  color: white;
+}
+
+#dede {
+  margin-left: 100px;
+  margin-top: 5px;
+  border-radius: 5px;
+  padding: 10px;
+  background: #000;
+  color: white;
+}
+
+.DEV {
+  color: white;
+  margin-left: 10px;
+  background: transparent;
+  padding: 9px;
+  border: 2px solid white;
+  border-radius: 10px;
+}
+
+.HOVER {
+  font-size: 50px;
+  padding-top: 150px;
+  color: white;
+}
+
+.DEV1 {
+  background-color: coral;
+  height: 300px;
+}
+
+.DEVE2 {
+  margin-left: 400px;
+  font-size: 15px;
+  font-family: initial;
+}
+
+.DEV3 {
+  margin-left: 70px;
+  margin-top: 80px;
+  color: rgb(105, 177, 236);
+}
+
+.DEV12 {
+  margin-left: 60px;
+  margin-top: 20px;
+  font-family: initial;
+}
+.DEVE13 {
+  margin-left: 60px;
+  padding: 8px;
+  margin-top: 20px;
+  width: 400px;
+  border-radius: 10px;
+  border: solid gray;
+}
+
+.CECE {
+  margin-top: 20px;
+}
+
+.aria {
+  margin: 20px 60px;
+  border-radius: 10px;
+  padding-left: 10px;
+  border: solid gray;
+  opacity: 30%;
+}
+
+.RADIO {
+  background-color: coral;
+  margin-left: 410px;
+  padding: 20px;
+  color: white;
+}
+
+.dev16 {
+  float: right;
+  margin: -530px 350px 20px 10px;
+  color: rgb(105, 177, 236);
+}
+
+.dev17 {
+  float: right;
+  margin: -490px 110px 50px 10px;
+}
+.SASA {
+  color: rgb(207, 106, 24);
+}
+
+.Ddev17 {
+  float: right;
+  margin: -450px 260px 50px 400px;
+}
+
+.FRE {
+  color: rgb(145, 113, 87);
+}
+.frem {
+  float: right;
+  margin: -400px 150px 90px 500px;
+}
+
+.www {
+  float: right;
+  margin: -320px 140px 90px 500px;
+}
+
+.FREM20 {
+  color: coral;
+}
+
+.dex {
+  color: coral;
+}
+
+.frem10 {
+  float: right;
+  margin: -250px 150px 90px 500px;
+}
+
+.FACEBOOK {
+  float: right;
+  height: 80px;
+  margin-top: -420px;
+  margin-right: 490px;
+}
+.TWI {
+  height: 80px;
+  float: right;
+  margin-top: -330px;
+  margin-right: 490px;
+}
+
+.LINK {
+  float: right;
+  height: 80px;
+  margin-right: 490px;
+  margin-top: -250px;
+}
+
+.BMW {
+  background-color: rgb(54, 51, 51);
+
+  display: flex;
+}
+
+H4 {
+  color: white;
+  margin-left: 45px;
+  margin-top: 45px;
+}
+
+.BMW UL LI a {
+  color: rgb(128, 114, 114);
+
+  margin-top: 50px;
+  margin-left: 50px;
+}
+footer {
+  width: 100%;
+  display: flex;
+}
+.sct {
+  width: 100%;
+  margin-top: 90px;
+}
+Footer {
+  background-color: rgb(54, 51, 51);
+  margin-top: 50px;
+  height: 250px;
+}
+footer ul {
+  width: 100%;
+  display: flex;
+  flex-direction: column;
+  align-items: space-between;
+}
+
+.ZARA {
+  margin-left: 20px;
+  margin-top: 20px;
+  color: rgb(255, 255, 255);
+
+}
+Footer li a {
+  color: grey;
+  margin-left: 20px;
+ 
+}
+
+#web {
+  background-color: #000000;
+  margin-top: 20px;
+  color: white;
+  padding: 10px;
+  margin: 10px 50px 0 0;
+  font-size: large;
+  padding-left: -15px;
+  padding-bottom: 10PX;
+  padding-right: 15PX;
+  border-radius: 5px;
+}
+
+.DESING { background-color: rgb(37, 37, 37);
+          
+  margin-top: -5px;
+  margin-left: -2px;
+  padding: 10px;
+}
+
+
+
+a:hover { 
+    background-color: rgba(0, 0, 0, 0.397);
+    transition:  .9s;
+}
+
+.scc { color: coral;}
+
+.wccw { display: flex;
+     
+
+}
+footer div img { width: 10px;
+            margin-left: 10px; 
+            margin-top: 10px;    
+            padding-top: 5px;
+            padding-left: 5px;
+}
+
+.meta 
+
+
+            
+         
+         
+
+
+ 
+ 
